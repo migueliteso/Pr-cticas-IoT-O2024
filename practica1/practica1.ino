@@ -4,7 +4,7 @@ void setup() {
 }
 
 void loop() {
-   Serial.println("Gracias Carnal");
+   Serial.println("Hello World");
    Serial.println("10/09/24");
   delay(100);
 }
